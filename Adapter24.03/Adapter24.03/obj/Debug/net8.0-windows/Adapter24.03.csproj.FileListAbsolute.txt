@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\bin\Debug\net8.0-windows\Adapter24.03.exe
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\bin\Debug\net8.0-windows\Adapter24.03.deps.json
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\bin\Debug\net8.0-windows\Adapter24.03.runtimeconfig.json
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\bin\Debug\net8.0-windows\Adapter24.03.dll
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\bin\Debug\net8.0-windows\Adapter24.03.pdb
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\Adapter24._03.Form1.resources
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\Adapter24.03.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\Adapter24.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\Adapter24.03.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\Adapter24.03.AssemblyInfo.cs
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\Adapter24.03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\Adapter24.03.dll
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\refint\Adapter24.03.dll
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\Adapter24.03.pdb
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\Adapter24.03.genruntimeconfig.cache
+C:\Users\User\source\repos\Adapter24.03\Adapter24.03\obj\Debug\net8.0-windows\ref\Adapter24.03.dll
